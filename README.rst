@@ -3,7 +3,7 @@ Extract data from postscript plots
 
 What does it do?
 -----------------
-* Writes out data file with points of plot.
+* Writes out data file containing all points in the plot.
 * Recreates the plot
 
 Caveats: 
